@@ -1,3 +1,3 @@
-# jonirrings
+# GitHub Pages
 
-github pages for my github coding
+this is just a personal GitHub Pages build with Jekyll
